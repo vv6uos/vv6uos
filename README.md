@@ -5,7 +5,11 @@
 
 - Lee Song Eun
 - 1993.06.20
-- wanamzz600@gmail.com
+
+
+## 🤝 Contact 
+-[🌐blog. https://vv6uos.tistory.com/](https://vv6uos.tistory.com/)
+-[📧Email. wanamzz600@gmail.com](wanamzz600@gmail.com)
 　
 　　
 ## ⚒️ Technology Stacks
